@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "超级英雄",
+  "enablePullDownRefresh": true,
+  "titleNView": false,
+  "usingComponents": {
+    "star": "/components/star"
+  }
+}

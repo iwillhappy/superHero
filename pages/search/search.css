@@ -1,0 +1,41 @@
+.search_wapper{
+		display: flex;
+		flex-direction: row;
+		padding: 0 20upx 20upx;
+		position: fixed;
+		top: 100;
+		background: #F8F8F8;
+		z-index: 2000;
+}
+.search_icon_waper{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding: 0 10upx;
+	background: #eaeaea;
+}
+.search_icon{
+	width: 40upx;
+	height: 40upx;
+}
+.search_input{
+	width: 650upx;
+	height: 60upx;
+	background: #EAEAEA;
+	font-size: 14px;
+}
+
+.poster_list{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	padding: 100upx 10upx 0upx 10upx;
+	flex-wrap: wrap;
+}
+.poster_warp{
+	padding: 10upx 20upx;
+}
+.poster{
+	width: 200upx;
+	height: 270upx;
+}

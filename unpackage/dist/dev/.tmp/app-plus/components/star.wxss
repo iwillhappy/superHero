@@ -1,0 +1,24 @@
+
+.poster_sort{
+	width: 200rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	    -ms-flex-direction: row;
+	        flex-direction: row;
+}
+.start-icon{
+	width: 20rpx;
+	height: 20rpx;
+	margin-right: 5rpx;
+	margin-top: 8rpx;
+}
+.score{
+	font-size: 14px;
+	color: grey;
+}
+
